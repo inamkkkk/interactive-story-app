@@ -1,0 +1,11 @@
+android/
+ios/
+.idea/
+.dart_tool/
+build/
+.DS_Store
+*.iml
+packages/
+*.swp
+*.log
+.env
